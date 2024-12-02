@@ -19,7 +19,7 @@ A web application that allows users to view, like, and adopt pets. It provides a
 4. **Destructuring**: Extracting properties from objects like `petData` to directly access values such as `pet.image` and `pet.pet_name`.
 5. **Spread Operator**: Used in various functions for manipulating and combining arrays and objects when handling pet data.
 
-## ![LiveGIF](https://github.com/user-attachments/assets/64173e57-7263-4453-bc97-287c80b6f768)
+
  Live Demo
 
 Check out the live version of the project here: [Live Project Link](https://peddy-pets.surge.sh/)
