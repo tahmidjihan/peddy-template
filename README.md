@@ -6,7 +6,7 @@ A simple and intuitive web application for browsing, liking, and adopting pets. 
 
 ## Screenshot
 <div align="center">
- <img src="./peddy-banner.png"/>
+ <img src="./peddy-banner.jpg"/>
 </div>
 ## 🚀 Technologies Used  
 
